@@ -1,0 +1,10 @@
+body{ background-color:#275fb3; font-family: Times,serif; font-size:20px; line-height:140%;}
+
+.section1{ 
+	border:10px solid #003687; width:1200px; margin: 50px auto; background-color:#DFDFDF;
+	padding:50px;
+	border-radius:25px; 
+	}
+	.myphoto{border-top-left-radius:60px; width:400px; border-bottom-right-radius:60px; border-color:#FF9900;}
+	
+	.section2{ margin-top:25px; border-top:2px solid #FF9900; padding-top:25px; }
